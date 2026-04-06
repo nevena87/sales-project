@@ -53,6 +53,9 @@ project/
 │ ├── sales.csv
 │ ├── inventory.csv
 │
+├── data/
+│ └── queries.sql
+│
 ├── src/
 │ ├── config.py
 │ ├── extract.py
