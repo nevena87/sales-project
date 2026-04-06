@@ -98,7 +98,27 @@ project/
 | lead_time_days   | Supplier lead time       |
 
 ---
+## 🗄️ SQL Analysis (Exploratory Data Analysis)
 
+Before building the machine learning pipeline, SQL was used for exploratory data analysis and validation of the dataset.
+
+SQL queries helped to:
+- Aggregate sales per product
+- Analyze historical trends
+- Identify last sale dates
+- Join sales and inventory data
+- Perform business-level validation
+
+Role of SQL in the Project
+- SQL was used for initial data exploration and aggregation
+- Python was used for:
+  - Data cleaning
+  - Feature engineering
+  - Model training
+  - Prediction
+  - Inventory optimization
+
+---
 ## ▶️ How to Run
 
 ```bash
