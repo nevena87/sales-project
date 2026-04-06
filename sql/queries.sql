@@ -1,17 +1,17 @@
-/*create database sales_db;
-use sales_db;*/
+create database sales_db;
+use sales_db;
 
-/*create table sales (
+create table sales (
     date DATE,
     product_id INT,
     quantity INT
-);*/
+);
 
-/*CREATE TABLE inventory (
+CREATE TABLE inventory (
     product_id INT PRIMARY KEY,
     stock_quantity INT,
     lead_time_days INT
-); */
+); 
 
 select * from sales;
 select * from inventory;
